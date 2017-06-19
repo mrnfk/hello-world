@@ -2,7 +2,7 @@
 <html>
 <head>
 <link <link href="style.css" type="text/css" rel="stylesheet">>
-  <title> "Brians Wife" </title>
+<title> Brians Wife </title>
 </head>
 <body>
   <h1>Amy</h1>
